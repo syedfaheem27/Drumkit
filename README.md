@@ -1,1 +1,1 @@
-# Drumkit
+This project is about a drumkit where the user can press certain keys and get the respective drum sounds. I have used basic Html,css and javascript to create this project. Also, it has been created without the use of any framework.
