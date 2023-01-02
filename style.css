@@ -1,0 +1,22 @@
+html {
+    background-image: url(./drum.jpg);
+    background-size: cover;
+}
+.keys {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    gap: 24px;
+    align-items: center;
+    line-height: 1.2;
+}
+.key {
+    border: 3px solid rgb(241, 188, 123);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(15, 163, 242);
+    font-weight: bold;
+
+}
